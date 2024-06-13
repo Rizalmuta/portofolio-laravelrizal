@@ -40,13 +40,13 @@ https://templatemo.com/tm-531-reflux
              <img src="https://static.vecteezy.com/system/resources/previews/000/662/785/original/man-face-cartoon-vector.jpg" alt="">
             </div>
             <div class="author-content">
-              <h4>M rizal</h4>
+              <h4>M. Rizal mutakin</h4>
               <span>WEB DESIGNER</span>
             </div>
             <nav class="main-nav" role="navigation">
               <ul class="main-menu">
                 <li><a href="#section1">About Me</a></li>
-                <li><a href="#section4">Contact Me</a></li>
+                <li><a href="#sectclion4">Contact Me</a></li>
               </ul>
             </nav>
             <div class="social-network">
